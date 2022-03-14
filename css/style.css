@@ -326,23 +326,21 @@
   margin-left: 256px;
   margin-bottom: 158px;
 }
-.booking img {
+#reservationPart img {
   position: absolute;
 }
 .bgImag1 {
-  margin-left: -632px;
-  margin-top: -86px;
-  width: 226px;
+  width: 250px;
 }
 .bgImag2 {
-  margin-left: -456px;
-  margin-top: 50px;
+  margin-left: 192px;
+  margin-top: 164px;
   width: 226px;
 }
 .bgImag3 {
   width: 226px;
-  margin-left: 405px;
-  margin-top: 124px;
+  margin-left: 1037px;
+  margin-top: 240px;
 }
 .booking h6 {
   float: left;
